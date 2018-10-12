@@ -1,0 +1,356 @@
+
+@media (min-width: 415px) and (max-width: 667px) {
+.home-about {
+    min-height: 280px;
+}
+.col-md-3.col-sm-6.col-xs-6.footertp {
+    min-height: 324px;
+}
+
+}
+
+@media (max-width: 767px) {
+.lt-padding {
+    padding-left: 15px;
+}
+.rt-padding {
+	padding-right: 15px;
+	text-align: left;
+}
+.rt-padding .title > h2 {
+    text-align: left;
+}
+
+.navbar-brand {
+	padding-left: 15px;
+}
+.navbar-default .navbar-nav > li > a:hover, .homepage .navbar-default .navbar-nav > li.nav-home > a, .companypage .navbar-default .navbar-nav > li.nav-company > a, .servicepage .navbar-default .navbar-nav > li.nav-service > a, .contactpage .navbar-default .navbar-nav > li.nav-contact > a, .testimonialpage .navbar-default .navbar-nav > li.nav-testimonial > a, .portfoliopage .navbar-default .navbar-nav > li.nav-portfolio > a, .packagepage .navbar-default .navbar-nav > li.nav-package > a {
+	background: rgba(255, 0, 0, .7);
+	color: rgba(255, 255, 255, 1);
+}
+
+.navbar-fixed-top.top-nav-collapse .navbar-brand {
+    padding: 0 0 0 15px;
+}
+.navbar-fixed-top .nav.navbar-nav.navbar-right {
+    margin-top: 0;
+}
+.navbar-fixed-top .navbar-brand img {
+    margin-top: 0;
+}
+.navbar-fixed-top.top-nav-collapse {
+    margin-top: 0;
+}
+.nav-tp {
+	display: none;
+    
+}
+.nav-tp ul {
+    text-align: center;
+}
+
+#bannertp {
+    padding-top: 62px;
+}
+.slide-content {
+    padding: 10px 0 0;
+    width: 100%;
+}
+.slide-content.second em {
+	font-size: 13px;
+}
+.slide-content a {
+	display: none;
+}
+.slide-content h2 {
+    font-size: 16px;
+    font-weight: normal;
+    text-align: left;
+    text-transform: capitalize;
+}
+.slide-content p {
+	background: none;
+    font: 400 14px/15px "coolveticaregular";
+    text-align: left;
+}
+.slide-content p span {
+    line-height: 20px;
+    padding: 0 15px;
+    text-transform: capitalize;
+}
+.slide-content.third h2 span {
+	background: none;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    line-height: 14px;
+}
+.slide-content.third h2 {
+    margin-bottom: 10px;
+}
+.slide-content.third p {
+    font-size: 13px;
+    line-height: 16px;
+    margin-bottom: 10px;
+}
+.slide-content.third p span {
+    font-size: 20px;
+}
+.slide-content.second {
+    width: 100%;
+}
+.slide-content.second h2 {
+    font: 600 16px/20px "Raleway",sans-serif;
+}
+.slide-content.second p {
+    font: 400 12px/20px "Raleway",sans-serif;
+}
+
+.welcome-lt h1 {
+    font-size: 20px;
+}
+.welcome-abt a {
+    margin-bottom: 10px;
+    padding: 5px 15px;
+}
+.welcome {
+    padding: 15px 0;
+}
+.callbtn {
+    margin: 20px 0;
+}
+.welcome-abt {
+    margin-top: 10px;
+}
+.services {
+	padding: 20px 0 0;
+}
+.lg-bloginfo {
+    float: none;
+    width: 100%;
+}
+.ft-nav > ul {
+    text-align: center;
+    margin-bottom: 10px;
+}
+.copyright p {
+    margin-bottom: 10px;
+    text-align: center;
+}
+.client-say > p {
+	text-align: justify;
+}
+.webdev-info {
+    margin: 0 0 20px;
+    padding: 0;
+}
+.webdev-img {
+	display: block;
+    float: none;
+    margin: 0 auto 15px;
+    text-align: center;
+}
+.web-overlay {
+    text-align: center;
+}
+.webdev-info.right .web-overlay {
+    text-align: center;
+}
+.webdev-img i {
+    font-size: 25px;
+    height: 60px;
+    line-height: 60px;
+    width: 60px;
+}
+.overlay .expand i {
+    border: 1px solid #fff;
+    color: hsl(0, 0%, 100%);
+    font-size: 20px;
+    height: 30px;
+    line-height: 30px;
+    width: 30px;
+}
+.seo-inner thead th,
+.seo-inner tbody td {
+	width: auto;
+}
+.title > ul {
+    margin: 15px 0;
+}
+.blog {
+    padding: 20px 0 0;
+}
+.blog-title > h2 {
+    font-size: 16px;
+}
+.bolg-descp > p {
+    font-size: 13px;
+    line-height: 20px;
+    margin-bottom: 15px;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 980px) {
+.navbar-brand {
+    max-width: 170px;
+}
+.navbar-default .navbar-nav > li > a {
+    font-size: 12px;
+    padding: 18px 8px;
+}
+.dropdown-menu {
+	top: 110%;
+}
+
+.lg-bloginfo {
+    float: none;
+    width: 100%;
+}
+.slide-content p {
+	text-align: left;
+}
+.navbar-fixed-top .nav.navbar-nav.navbar-right {
+    margin: 10px 0 0;
+}
+.top-nav-collapse .navbar-nav {
+	padding-top: 10px;
+}
+.blog-sm-site {
+    float: left;
+    max-height: 80px;
+    overflow: hidden;
+    width: calc(95% - 70px);
+}
+}
+
+@media (min-width: 981px) and (max-width: 1024px) {
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+.testimo-sec.ourservice li {
+    line-height: 36px;
+    font-size: 13px;
+}
+.webdev-img i {
+    font-size: 25px;
+    height: 60px;
+    line-height: 60px;
+    width: 60px;
+}
+.web-overlay  {
+	width: 70%;
+}
+.overlay .expand i {
+    border: 1px solid #fff;
+    color: hsl(0, 0%, 100%);
+    font-size: 20px;
+    height: 30px;
+    line-height: 30px;
+    width: 30px;
+}
+.slide-content {
+    padding: 20px 0 0;
+    width: 38%;
+}
+.slide-content h2 {
+    font-size: 20px;
+    font-weight: 500;
+}
+.slide-content p {
+    font: 500 16px/20px "coolveticaregular";
+	text-align: left;
+}
+.slide-content p span{
+	background: none;
+}
+.slide-content.third h2 span {
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    line-height: 26px;
+    text-transform: capitalize;
+}
+.slide-content.third h2 {
+    margin-bottom: 15px;
+}
+.slide-content.third p {
+    font-size: 16px;
+    line-height: 18px;
+    margin-bottom: 15px;
+}
+.slide-content.third p span {
+	font-size: 25px;
+}
+.slide-content.second {
+    width: 38%;
+}
+.slide-content.second h2 {
+    font: 400 20px/22px "Raleway",sans-serif;
+}
+.slide-content.second p {
+    font: 400 18px/24px "Raleway",sans-serif;
+}
+.slide-content.second em {
+	font-size: 15px;
+}
+.blog-title > h2 {
+    font-size: 16px;
+}
+.bolg-descp > p {
+    font-size: 13px;
+    line-height: 20px;
+    margin-bottom: 15px;
+}
+}
+
+@media (min-width: 240px) and (max-width: 385px) {
+.post-lg > h2 {
+    font-size: 12px;
+}
+@media (min-width: 240px) and (max-width: 414px) {
+.addn-services h2, .web-develop h2 {
+	font-size: 20px
+}
+.col-xs-6.footertp {
+    width: 100%;
+}
+.dsing-develop {
+    padding: 20px 10px;
+}
+.dsing-develop i {
+    font-size: 30px;
+}
+.col-md-6.col-sm-6.col-xs-6.webdev {
+    border-left :none;
+}
+.welcome-info p {
+    font-size: 15px !important;
+}
+.slide-nav {
+    display: none;
+}
+.col-xs-6.package {
+    width: 100%;
+}
+}
+
+@media (min-width: 240px) and (max-width: 600px) {
+
+.webdev-img {
+    float: none;
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.col-md-6.col-sm-6.col-xs-6.webdev {
+	width: 100%;
+}
+}
+@media (min-width: 240px) and (max-width: 385px) {
+.dsing-develop {
+	min-height: 128px;
+}
+}
